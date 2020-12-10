@@ -1,2 +1,2 @@
 # drawdb
-draw store
+记录自己的draw文件
